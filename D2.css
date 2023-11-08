@@ -1,0 +1,189 @@
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.959);
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+  *{
+    box-sizing: border-box;
+
+  }
+  input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+  
+ 
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  
+  .container {
+    border-radius: 5px;
+    background-color: #0aa9e8;
+    padding: 20px;
+  }
+  
+
+  .col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+  .col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+  }
+  
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  @media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+  .Submit
+  {
+      border: rgba(0, 0, 0, 0.925);
+      border-radius: 5px;
+      padding: 10px;
+      color: rgb(255, 255, 255);
+      
+      
+      background-image: linear-gradient(rgba(0, 0, 255, 0.959), rgba(0, 0, 255, 0.959));
+  }
+  
+
+input{
+padding: 12px 12px 12px;
+
+}
+
+h1{
+  color: dodgerblue;
+  
+}
+#B1{
+  float:right;
+width: 500px;
+height: 500px;
+color:deepskyblue;
+
+}
+
+#B2{
+  float: left;
+  width: 500px;
+  height: 500p;
+  color:deepskyblue;
+
+}
+
+#B3{
+float:right;
+height:500px;
+width: 500px;
+color:deepskyblue;
+
+}
+
+#B4{
+  float:left;
+  height:500px;
+width: 500px;
+color:deepskyblue;
+}
+
+#B5{
+  float:right;
+  height:500px;
+width: 500px;
+color:deepskyblue;
+}
+
+#B6{
+float:right;
+height: 500px;
+width: 500px;
+color:deepskyblue;
+
+}
+
+#B7{
+  float:left;
+  height: 500px;
+  width: 500px;
+  color:deepskyblue;
+
+  }
+
+  #B8{
+    float:right;
+    height: 500px;
+    width: 500px;
+    color:deepskyblue;
+    }
+
+    #B9{
+      float:left;
+      height: 500px;
+      width: 500px;
+      color:deepskyblue;
+      }
+
+      #B10{
+        float:right;
+        height: 500px;
+        width: 500px;
+        color:deepskyblue;
+        }
+
+        #B11{
+          float:left;
+          height: 500px;
+          width: 500px;
+          color:deepskyblue;
+          } 
+          
+          #B12{
+            float: left;
+            width: 500px;
+            height: 500p;
+            color:deepskyblue;
+          font-size: large;
+          }
